@@ -1,0 +1,12 @@
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\bin\Debug\TPDPBO1.exe.config
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\bin\Debug\TPDPBO1.exe
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\bin\Debug\TPDPBO1.pdb
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\obj\Debug\TPDPBO1.csprojAssemblyReference.cache
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\obj\Debug\TPDPBO1.Form1.resources
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\obj\Debug\TPDPBO1.Form2.resources
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\obj\Debug\TPDPBO1.Form3.resources
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\obj\Debug\TPDPBO1.Properties.Resources.resources
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\obj\Debug\TPDPBO1.csproj.GenerateResource.cache
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\obj\Debug\TPDPBO1.csproj.CoreCompileInputs.cache
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\obj\Debug\TPDPBO1.exe
+C:\Users\sudir\source\repos\TPDPBO1\TPDPBO1\obj\Debug\TPDPBO1.pdb
